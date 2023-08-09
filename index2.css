@@ -1,0 +1,36 @@
+
+  .main{
+position: relative;
+  }
+  h2 {
+    position: absolute;
+    color: white;
+    top: 20px;
+    left: 400px;
+    
+  }
+.b{
+    margin: auto;
+    background-color: white;
+    height: 250px;
+    width: 40%;
+    text-align: center;
+    padding: 3%;
+    position: absolute;
+    top: 70px;
+    left: 400px;
+}
+
+.login{
+    border: none;
+    color: #fff;
+    background-color: lightgreen;
+    height: 40px;
+    width: 460px ;
+}
+.input{
+    border: none;
+    outline: none;
+    background-color: gainsboro;
+    height: 40px;
+}
